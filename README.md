@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malik Samouh</h1>
-<h3 align="center">I'm from Canada, and I am a third-year Computer Science student at York University</h3>
+<h3 align="center">I'm from Canada, and I am a fourth-year Computer Science student at York University</h3>
 
-- 🌱 I’m currently learning **Java language**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **maliksamouh@gmail.com**
 
