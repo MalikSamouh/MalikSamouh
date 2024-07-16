@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malik Samouh</h1>
-<h3 align="center">I'm from Canada, and I am a fourth-year Computer Science student at York University</h3>
+<h3 align="center">Software Developer | Recent Computer Science graduate from York University | Prev @ OPG</h3>
 
 Ever since I took coding course in high school, I found it enjoyable and the stuff you could do with your imagination and creativity. The idea of implementing your thoughts into a code to make an app and programs. I value hard work, but also smart work, by contentiously learning and developing, finding better and more efficient ways to do things, and embracing change and innovations.
 
