@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malik Samouh</h1>
-<h3 align="center">Software Developer | Recent Computer Science graduate from York University | Prev @ OPG</h3>
+<h3 align="center">Software Developer | Recent Computer Science Graduate from York University | Prev @ OPG</h3>
 
-Ever since I took coding course in high school, I found it enjoyable and the stuff you could do with your imagination and creativity. The idea of implementing your thoughts into a code to make an app and programs. I value hard work, but also smart work, by contentiously learning and developing, finding better and more efficient ways to do things, and embracing change and innovations.
+Ever since I took a coding course in high school, I found it enjoyable and the stuff you could do with your imagination and creativity. The idea of implementing your thoughts into a code to make an app and programs. I value hard work, but also smart work, by contentiously learning and developing, finding better and more efficient ways to do things, and embracing change and innovations.
 
 During my free time, I like to be very active and participate in team sports like soccer club and pin pong club. Furthermore, I like to explore what's new in the coding field, especially in UI, as well as self-learning more about User interfaces.
 
